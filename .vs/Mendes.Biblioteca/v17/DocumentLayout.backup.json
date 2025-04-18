@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tamendes\\Mendes.Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99008C30-0A79-4961-B72B-6D1B0C102A94}|Mendes.Biblioteca.API\\Mendes.Biblioteca.API.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99008C30-0A79-4961-B72B-6D1B0C102A94}|Mendes.Biblioteca.API\\Mendes.Biblioteca.API.csproj|solutionrelative:mendes.biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99008C30-0A79-4961-B72B-6D1B0C102A94}|Mendes.Biblioteca.API\\Mendes.Biblioteca.API.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99008C30-0A79-4961-B72B-6D1B0C102A94}|Mendes.Biblioteca.API\\Mendes.Biblioteca.API.csproj|solutionrelative:mendes.biblioteca.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|solutionrelative:mendes.biblioteca.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34753F73-3CB4-4E5A-97A4-6ABDC0890CE0}|Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34753F73-3CB4-4E5A-97A4-6ABDC0890CE0}|Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj|solutionrelative:mendes.biblioteca.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FFA09F-6181-440D-8746-FBAACAE54CE4}|Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FFA09F-6181-440D-8746-FBAACAE54CE4}|Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj|solutionrelative:mendes.biblioteca.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34753F73-3CB4-4E5A-97A4-6ABDC0890CE0}|Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.infrastructure\\mendes.biblioteca.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34753F73-3CB4-4E5A-97A4-6ABDC0890CE0}|Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj|solutionrelative:mendes.biblioteca.infrastructure\\mendes.biblioteca.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BE9401-F61D-40FE-9B6A-2DCF78CC7F5E}|Mendes.Biblioteca.Tests\\Mendes.Biblioteca.Tests.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.tests\\services\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BE9401-F61D-40FE-9B6A-2DCF78CC7F5E}|Mendes.Biblioteca.Tests\\Mendes.Biblioteca.Tests.csproj|solutionrelative:mendes.biblioteca.tests\\services\\bookservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|solutionrelative:mendes.biblioteca.application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|solutionrelative:mendes.biblioteca.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.application\\mendes.biblioteca.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|solutionrelative:mendes.biblioteca.application\\mendes.biblioteca.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6531FD-AF03-4E2E-8712-768C1E46430E}|Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj|solutionrelative:mendes.biblioteca.application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FFA09F-6181-440D-8746-FBAACAE54CE4}|Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FFA09F-6181-440D-8746-FBAACAE54CE4}|Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj|solutionrelative:mendes.biblioteca.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34753F73-3CB4-4E5A-97A4-6ABDC0890CE0}|Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.infrastructure\\data\\bibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34753F73-3CB4-4E5A-97A4-6ABDC0890CE0}|Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj|solutionrelative:mendes.biblioteca.infrastructure\\data\\bibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FFA09F-6181-440D-8746-FBAACAE54CE4}|Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj|d:\\tamendes\\mendes.biblioteca\\mendes.biblioteca.domain\\mendes.biblioteca.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80FFA09F-6181-440D-8746-FBAACAE54CE4}|Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj|solutionrelative:mendes.biblioteca.domain\\mendes.biblioteca.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.API\\appsettings.json",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.API\\appsettings.json",
+              "RelativeToolTip": "Mendes.Biblioteca.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T13:56:30.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:30:22.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mendes.Biblioteca.Infrastructure",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj",
+              "RelativeToolTip": "Mendes.Biblioteca.Infrastructure\\Mendes.Biblioteca.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T12:30:19.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\DTOs\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Application\\DTOs\\CreateBookDto.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\DTOs\\CreateBookDto.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.Application\\DTOs\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:10:20.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mendes.Biblioteca.Application",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj",
+              "RelativeToolTip": "Mendes.Biblioteca.Application\\Mendes.Biblioteca.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T12:10:13.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Domain\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.Domain\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:00:30.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.API\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:06:42.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Application\\Services\\BookService.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\Services\\BookService.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.Application\\Services\\BookService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:14:32.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\DTOs\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Application\\DTOs\\UpdateBookDto.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\DTOs\\UpdateBookDto.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.Application\\DTOs\\UpdateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:10:54.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Application\\DTOs\\BookDto.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Application\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.Application\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:11:21.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Domain\\Entities\\Book.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:00:46.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookServiceTests.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Tests\\Services\\BookServiceTests.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Tests\\Services\\BookServiceTests.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Tests\\Services\\BookServiceTests.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.Tests\\Services\\BookServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T11:55:41.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BibliotecaDbContext.cs",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Infrastructure\\Data\\BibliotecaDbContext.cs",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Infrastructure\\Data\\BibliotecaDbContext.cs",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Infrastructure\\Data\\BibliotecaDbContext.cs",
+              "RelativeToolTip": "Mendes.Biblioteca.Infrastructure\\Data\\BibliotecaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:00:34.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mendes.Biblioteca.Domain",
+              "DocumentMoniker": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj",
+              "RelativeDocumentMoniker": "Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj",
+              "ToolTip": "D:\\tamendes\\Mendes.Biblioteca\\Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj",
+              "RelativeToolTip": "Mendes.Biblioteca.Domain\\Mendes.Biblioteca.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T12:00:25.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
